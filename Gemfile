@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
-# Usar sqlite3 as the database para Active Record
+# Usar sqlite3 as the base de datos para Active Record
 # Use sqlite3 as the database for Active Record
 group :development, :test do
 gem 'sqlite3'
